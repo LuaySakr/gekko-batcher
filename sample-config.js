@@ -10,11 +10,11 @@ config.name = 'My'
 // Save results to csv
 config.saveToCsv = true
 
-config.gekkoPath = '../gekko/'
-config.gekkoConfigFileName = 'config.js'
+config.gekkoPath = '../mamadede/'
+config.gekkoConfigFileName = 'LSS4_config.js'
 
 // URL that serving Gekko UI
-config.apiUrl = 'http://localhost:3000'
+config.apiUrl = 'http://localhost:3001'
 
 // Keep it lower than the number of cores you have
 // Note: 2 is recommended value for import mode
